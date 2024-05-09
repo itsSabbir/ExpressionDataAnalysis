@@ -6,6 +6,8 @@ Welcome to the "Expression Data Analysis" repository, where we delve into the no
 
 [Link to original jounral entry](https://github.com/bcb420-2022/Sabbir_Hossain/wiki/Journal-Entry-Assignment-%231:---Data-set-selection-and-initial-Processing)
 
+[Link to rendered HTML document](https://html-preview.github.io/?url=https://github.com/itsSabbir/ExpressionDataAnalysis/blob/main/Assignment1-Code.html) 
+
 ## Objective
 
 The objective of this project is to enhance our understanding of selecting and analyzing gene expression datasets using tools like GEO2R, pivotal in bioinformatics. The specific focus for this analysis was on dataset GSE193417, which involves studying gene expression related to depressive disorders in human subjects.
