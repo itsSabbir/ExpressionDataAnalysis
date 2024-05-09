@@ -2,6 +2,10 @@
 
 Welcome to the "Expression Data Analysis" repository, where we delve into the normalization and analysis of human gene expression datasets. This project is part of my Bioinformatics course assignment and focuses on selecting, cleaning, normalizing, and analyzing a gene expression dataset to ensure accurate subsequent analyses. The final output is a well-documented R Notebook, complemented by a detailed README to guide you through the process and findings.
 
+[Link to original assignment guidelines](https://github.com/bcb420-2020/General_Course_Info/wiki/Assignment%231#select-an-expression-data-set)
+
+[Link to original jounral entry](https://github.com/bcb420-2022/Sabbir_Hossain/wiki/Journal-Entry-Assignment-%231:---Data-set-selection-and-initial-Processing)
+
 ## Objective
 
 The objective of this project is to enhance our understanding of selecting and analyzing gene expression datasets using tools like GEO2R, pivotal in bioinformatics. The specific focus for this analysis was on dataset GSE193417, which involves studying gene expression related to depressive disorders in human subjects.
@@ -64,7 +68,6 @@ This assignment provided valuable insights into the complexities of data analysi
 - **docs/**: Additional documentation and references.
 
 Here's a detailed "Further Reading and Resources" section for your README.md, including complete references and descriptions to aid users in expanding their understanding of the methodologies and tools used in your project:
-
 
 ## Further Reading and Resources
 
