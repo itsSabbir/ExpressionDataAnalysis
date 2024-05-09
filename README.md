@@ -63,12 +63,19 @@ This assignment provided valuable insights into the complexities of data analysi
 - **Data/**: Folder containing processed datasets used in the notebook (note: raw data is not uploaded due to size constraints but can be downloaded directly via the notebook).
 - **docs/**: Additional documentation and references.
 
+Here's a detailed "Further Reading and Resources" section for your README.md, including complete references and descriptions to aid users in expanding their understanding of the methodologies and tools used in your project:
+
+
 ## Further Reading and Resources
 
-- **Quantile Normalization:** Bolstad et al. (2003)...
-- **RNA-seq Analysis:** Bioconductor workflows...
-- **HUGO Gene Nomenclature Committee:** Authoritative source for gene symbols...
-- **Microarray Normalization Strategies:** Cheng et al. (2016)...
+- **Quantile Normalization**: Explore various normalization methods for high-density oligonucleotide array data focused on reducing variance and bias. See Bolstad et al. (2003), "A comparison of normalization methods for high-density oligonucleotide array data based on variance and bias." Bioinformatics, 19(2), 185-193. The paper discusses how different approaches can influence the outcome of data analysis. [Read the paper on PubMed](https://pubmed.ncbi.nlm.nih.gov/12538238/), [DOI link](https://doi.org/10.1093/bioinformatics/19.2.185).
+
+- **RNA-seq Analysis**: Learn about RNA-seq differential expression analysis using Bioconductor packages such as limma, Glimma, and edgeR. These workflows provide a comprehensive guide from data preparation through to exploratory analysis and statistical testing. For a complete workflow, refer to the Bioconductor's RNA-seq workflow using **edgeR** and **DESeq2**, which are essential for gene-level exploratory analysis and differential expression.
+
+- **HUGO Gene Nomenclature Committee**: The HGNC provides the authoritative source for human gene symbols and nomenclature, offering tools for searching synonyms, aliases, and gene families. This resource is vital for ensuring data is accurately labeled and consistent with current scientific standards. Visit the [HGNC website](https://www.genenames.org/) to explore gene symbols and their related information.
+
+- **Microarray Normalization Strategies**: Cheng et al. (2016) introduce "CrossNorm," a novel normalization strategy for microarray data in cancer studies that aims to improve the accuracy of differential expression analysis. This paper discusses the advantages of using CrossNorm over traditional methods, particularly in the context of cancer research. The study is detailed in "CrossNorm: A Novel Normalization Strategy for Microarray Data in Cancers," Scientific Reports, 6, Article number: 18898. [Read the paper on PubMed](https://pubmed.ncbi.nlm.nih.gov/26732145/), [DOI link](https://doi.org/10.1038/srep18898).
+
 
 ## How to Use This Repository
 
